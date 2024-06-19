@@ -8,4 +8,4 @@ As you generate a caption, word by word, you can see the model's gaze shifting a
 This is possible because of its Attention mechanism, which allows it to focus on the part of the image most relevant to the word it is going to utter next.
 
 Here are some captions generated on test images not seen during training or validation:
-https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/blob/master/img/plane.png
+![alt text](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning/blob/master/img/plane.png)
